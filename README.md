@@ -1,2 +1,2 @@
 # encriptJS
-Encript Js
+Encripter made with JS and HTML5 
